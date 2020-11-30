@@ -1,0 +1,4 @@
+# IDE Folders and Files #
+.idea/
+*/target/*
+*.iml
